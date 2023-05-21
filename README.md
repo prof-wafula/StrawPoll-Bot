@@ -11,7 +11,9 @@
 ### Delete the old proxies and paste the new ones (socks.txt)
 
 * -Open App.js in your text editor
-* -Edit the voting link [(show)](https://user-images.githubusercontent.com/40467826/51801011-5bbdb280-221f-11e9-943a-63e36bed92a5.png)
+* -Edit the voting link [(
+    
+)](https://user-images.githubusercontent.com/40467826/51801011-5bbdb280-221f-11e9-943a-63e36bed92a5.png)
 * -Choose the option number [(show)](https://user-images.githubusercontent.com/40467826/51801064-0f26a700-2220-11e9-8841-a46490f052db.png) (The option to be voted) (Starts in 0)
 * -Run in the terminal:
 * >$ node app.js
